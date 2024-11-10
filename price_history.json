@@ -7,10 +7,259 @@
         "store_name": "Apple Store",
         "price": 999.00,
         "condition": "new",
-        "price_date": "2024-01-01",
+        "price_date": "2024-11-05",
         "currency": "USD",
-        "created_at": "2024-01-01T00:00:00Z"
+        "created_at": "2024-11-05T00:00:00Z"
+      },
+      {
+        "id": "ph2",
+        "phone_id": "iphone-15-pro",
+        "store_name": "Apple Store",
+        "price": 979.00,
+        "condition": "new",
+        "price_date": "2024-11-06",
+        "currency": "USD",
+        "created_at": "2024-11-06T00:00:00Z"
+      },
+      {
+        "id": "ph3",
+        "phone_id": "iphone-15-pro",
+        "store_name": "Apple Store",
+        "price": 959.00,
+        "condition": "new",
+        "price_date": "2024-11-07",
+        "currency": "USD",
+        "created_at": "2024-11-07T00:00:00Z"
+      },
+      {
+        "id": "ph4",
+        "phone_id": "iphone-15-pro",
+        "store_name": "Apple Store",
+        "price": 949.00,
+        "condition": "new",
+        "price_date": "2024-11-08",
+        "currency": "USD",
+        "created_at": "2024-11-08T00:00:00Z"
+      },
+      {
+        "id": "ph5",
+        "phone_id": "iphone-15-pro",
+        "store_name": "Apple Store",
+        "price": 929.00,
+        "condition": "new",
+        "price_date": "2024-11-09",
+        "currency": "USD",
+        "created_at": "2024-11-09T00:00:00Z"
+      }
+    ],
+    "galaxy-s23-ultra": [
+      {
+        "id": "ph6",
+        "phone_id": "galaxy-s23-ultra",
+        "store_name": "Samsung Store",
+        "price": 1199.00,
+        "condition": "new",
+        "price_date": "2024-11-05",
+        "currency": "USD",
+        "created_at": "2024-11-05T00:00:00Z"
+      },
+      {
+        "id": "ph7",
+        "phone_id": "galaxy-s23-ultra",
+        "store_name": "Samsung Store",
+        "price": 1179.00,
+        "condition": "new",
+        "price_date": "2024-11-06",
+        "currency": "USD",
+        "created_at": "2024-11-06T00:00:00Z"
+      },
+      {
+        "id": "ph8",
+        "phone_id": "galaxy-s23-ultra",
+        "store_name": "Samsung Store",
+        "price": 1159.00,
+        "condition": "new",
+        "price_date": "2024-11-07",
+        "currency": "USD",
+        "created_at": "2024-11-07T00:00:00Z"
+      },
+      {
+        "id": "ph9",
+        "phone_id": "galaxy-s23-ultra",
+        "store_name": "Samsung Store",
+        "price": 1149.00,
+        "condition": "new",
+        "price_date": "2024-11-08",
+        "currency": "USD",
+        "created_at": "2024-11-08T00:00:00Z"
+      },
+      {
+        "id": "ph10",
+        "phone_id": "galaxy-s23-ultra",
+        "store_name": "Samsung Store",
+        "price": 1129.00,
+        "condition": "new",
+        "price_date": "2024-11-09",
+        "currency": "USD",
+        "created_at": "2024-11-09T00:00:00Z"
+      }
+    ],
+    "google-pixel-8": [
+      {
+        "id": "ph11",
+        "phone_id": "google-pixel-8",
+        "store_name": "Google Store",
+        "price": 699.00,
+        "condition": "new",
+        "price_date": "2024-11-05",
+        "currency": "USD",
+        "created_at": "2024-11-05T00:00:00Z"
+      },
+      {
+        "id": "ph12",
+        "phone_id": "google-pixel-8",
+        "store_name": "Google Store",
+        "price": 679.00,
+        "condition": "new",
+        "price_date": "2024-11-06",
+        "currency": "USD",
+        "created_at": "2024-11-06T00:00:00Z"
+      },
+      {
+        "id": "ph13",
+        "phone_id": "google-pixel-8",
+        "store_name": "Google Store",
+        "price": 679.00,
+        "condition": "new",
+        "price_date": "2024-11-07",
+        "currency": "USD",
+        "created_at": "2024-11-07T00:00:00Z"
+      },
+      {
+        "id": "ph14",
+        "phone_id": "google-pixel-8",
+        "store_name": "Google Store",
+        "price": 669.00,
+        "condition": "new",
+        "price_date": "2024-11-08",
+        "currency": "USD",
+        "created_at": "2024-11-08T00:00:00Z"
+      },
+      {
+        "id": "ph15",
+        "phone_id": "google-pixel-8",
+        "store_name": "Google Store",
+        "price": 659.00,
+        "condition": "new",
+        "price_date": "2024-11-09",
+        "currency": "USD",
+        "created_at": "2024-11-09T00:00:00Z"
+      }
+    ],
+    "oneplus-12": [
+      {
+        "id": "ph16",
+        "phone_id": "oneplus-12",
+        "store_name": "OnePlus Store",
+        "price": 749.00,
+        "condition": "new",
+        "price_date": "2024-11-05",
+        "currency": "USD",
+        "created_at": "2024-11-05T00:00:00Z"
+      },
+      {
+        "id": "ph17",
+        "phone_id": "oneplus-12",
+        "store_name": "OnePlus Store",
+        "price": 739.00,
+        "condition": "new",
+        "price_date": "2024-11-06",
+        "currency": "USD",
+        "created_at": "2024-11-06T00:00:00Z"
+      },
+      {
+        "id": "ph18",
+        "phone_id": "oneplus-12",
+        "store_name": "OnePlus Store",
+        "price": 729.00,
+        "condition": "new",
+        "price_date": "2024-11-07",
+        "currency": "USD",
+        "created_at": "2024-11-07T00:00:00Z"
+      },
+      {
+        "id": "ph19",
+        "phone_id": "oneplus-12",
+        "store_name": "OnePlus Store",
+        "price": 719.00,
+        "condition": "new",
+        "price_date": "2024-11-08",
+        "currency": "USD",
+        "created_at": "2024-11-08T00:00:00Z"
+      },
+      {
+        "id": "ph20",
+        "phone_id": "oneplus-12",
+        "store_name": "OnePlus Store",
+        "price": 709.00,
+        "condition": "new",
+        "price_date": "2024-11-09",
+        "currency": "USD",
+        "created_at": "2024-11-09T00:00:00Z"
+      }
+    ],
+    "xiaomi-mi-14": [
+      {
+        "id": "ph21",
+        "phone_id": "xiaomi-mi-14",
+        "store_name": "Xiaomi Store",
+        "price": 599.00,
+        "condition": "new",
+        "price_date": "2024-11-05",
+        "currency": "USD",
+        "created_at": "2024-11-05T00:00:00Z"
+      },
+      {
+        "id": "ph22",
+        "phone_id": "xiaomi-mi-14",
+        "store_name": "Xiaomi Store",
+        "price": 589.00,
+        "condition": "new",
+        "price_date": "2024-11-06",
+        "currency": "USD",
+                "created_at": "2024-11-06T00:00:00Z"
+      },
+      {
+        "id": "ph23",
+        "phone_id": "xiaomi-mi-14",
+        "store_name": "Xiaomi Store",
+        "price": 579.00,
+        "condition": "new",
+        "price_date": "2024-11-07",
+        "currency": "USD",
+        "created_at": "2024-11-07T00:00:00Z"
+      },
+      {
+        "id": "ph24",
+        "phone_id": "xiaomi-mi-14",
+        "store_name": "Xiaomi Store",
+        "price": 569.00,
+        "condition": "new",
+        "price_date": "2024-11-08",
+        "currency": "USD",
+        "created_at": "2024-11-08T00:00:00Z"
+      },
+      {
+        "id": "ph25",
+        "phone_id": "xiaomi-mi-14",
+        "store_name": "Xiaomi Store",
+        "price": 559.00,
+        "condition": "new",
+        "price_date": "2024-11-09",
+        "currency": "USD",
+        "created_at": "2024-11-09T00:00:00Z"
       }
     ]
   }
 }
+
