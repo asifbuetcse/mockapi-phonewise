@@ -1,0 +1,16 @@
+{
+  "price_history": {
+    "iphone-15-pro": [
+      {
+        "id": "ph1",
+        "phone_id": "iphone-15-pro",
+        "store_name": "Apple Store",
+        "price": 999.00,
+        "condition": "new",
+        "price_date": "2024-01-01",
+        "currency": "USD",
+        "created_at": "2024-01-01T00:00:00Z"
+      }
+    ]
+  }
+}
