@@ -9,7 +9,51 @@
       "storage": "256GB",
       "color": "Natural Titanium",
       "created_at": "2024-01-01T00:00:00Z",
-      "updated_at": "2024-01-01T00:00:00Z"
+      "updated_at": "2024-11-09T00:00:00Z"
+    },
+    {
+      "id": "galaxy-s23-ultra",
+      "name": "Samsung Galaxy S23 Ultra",
+      "brand": "Samsung",
+      "release_date": "2023-02-17",
+      "image_url": "https://raw.githubusercontent.com/your-username/mock-api/main/images/galaxy-s23-ultra.jpg",
+      "storage": "256GB",
+      "color": "Phantom Black",
+      "created_at": "2024-01-01T00:00:00Z",
+      "updated_at": "2024-11-09T00:00:00Z"
+    },
+    {
+      "id": "google-pixel-8",
+      "name": "Google Pixel 8",
+      "brand": "Google",
+      "release_date": "2023-10-04",
+      "image_url": "https://raw.githubusercontent.com/your-username/mock-api/main/images/google-pixel-8.jpg",
+      "storage": "128GB",
+      "color": "Obsidian",
+      "created_at": "2024-01-01T00:00:00Z",
+      "updated_at": "2024-11-09T00:00:00Z"
+    },
+    {
+      "id": "oneplus-12",
+      "name": "OnePlus 12",
+      "brand": "OnePlus",
+      "release_date": "2023-12-15",
+      "image_url": "https://raw.githubusercontent.com/your-username/mock-api/main/images/oneplus-12.jpg",
+      "storage": "256GB",
+      "color": "Eternal Green",
+      "created_at": "2024-01-01T00:00:00Z",
+      "updated_at": "2024-11-09T00:00:00Z"
+    },
+    {
+      "id": "xiaomi-mi-14",
+      "name": "Xiaomi Mi 14",
+      "brand": "Xiaomi",
+      "release_date": "2024-01-05",
+      "image_url": "https://raw.githubusercontent.com/your-username/mock-api/main/images/xiaomi-mi-14.jpg",
+      "storage": "128GB",
+      "color": "Cosmic Silver",
+      "created_at": "2024-01-01T00:00:00Z",
+      "updated_at": "2024-11-09T00:00:00Z"
     }
   ]
 }
