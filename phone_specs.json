@@ -1,0 +1,23 @@
+{
+  "specs": {
+    "iphone-15-pro": {
+      "phone_id": "iphone-15-pro",
+      "display": "6.1‑inch OLED Super Retina XDR",
+      "processor": "A17 Pro chip",
+      "ram": "8GB",
+      "storage": "256GB",
+      "main_camera": "48MP Main + 12MP Ultra Wide + 12MP Telephoto",
+      "front_camera": "12MP TrueDepth",
+      "battery": "3274 mAh",
+      "os": "iOS 17",
+      "dimensions": "146.6 x 70.6 x 8.25 mm",
+      "weight": "187 grams",
+      "build": "Titanium and Glass",
+      "sim": "Dual SIM (nano-SIM and eSIM)",
+      "water_resistance": "IP68",
+      "features": "Dynamic Island\nUSB-C\nAction Button",
+      "created_at": "2024-01-01T00:00:00Z",
+      "updated_at": "2024-01-01T00:00:00Z"
+    }
+  }
+}
